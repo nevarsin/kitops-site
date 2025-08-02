@@ -1,0 +1,34 @@
+---
+title: Linux
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: linux.png
+alt: image-alt
+project-date:
+client:
+category:
+---
+I installed my first Linux distribution in 1997 and haven't stopped using it since.
+
+I can take care of Linux based system administration on a wide variety of topics, from security hardening to data persistency, from application reliability to mere sensible management. I can go from pets (named servers) to cattle (managing hypervisor clusters).
+
+Planning some new workload hoping you don't have to reinvent the wheel? Can do.
+
+I've been working with several sizes of Linux environments for more than 20 years, therefore I can help you pinpoint issues from wrong API resources or VM configuration down to suspicious syscalls on that single node.
+
+Some tools I've worked with:
+- AppArmor
+- Systemd
+- PostgreSQL
+- MySQL/MariaDB
+- SQL Server
+- Redis/Valkey
+- Apache/Nginx
+- KeyCloak
+- Proxmox
+- Gitlab
+- Teamcity
+- Docker
+
+

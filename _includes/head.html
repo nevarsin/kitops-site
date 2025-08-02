@@ -7,8 +7,14 @@
   <meta name="keywords" content="{{ site.keywords }}" />
   {% if site.meta_author %}
   <meta name="author" content="{{ site.meta_author }}">{% endif %}
+  <meta property="og:title" content="KitOps - DevSecOps & Platform Engineering">
+  <meta property="og:description" content="Freelance Kubernetes, Linux, and System Integration specialist.">
+  <meta property="og:image" content="https://www.kitops.eu/img/kitops-preview.png">
+  <meta property="og:url" content="https://www.kitops.eu">
+  <meta property="og:type" content="website">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="{{ " style.css" }}">

@@ -4,12 +4,13 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2>Contact Me</h2>
-        <hr class="star-primary">
+        <h4>If you think I can help you, let's have a chat.</h4>
+        <hr class="star-secondary">
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
-        <form action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+        <form action="https://formsubmit.co/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="name">Name</label>
@@ -21,7 +22,7 @@
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="email">Email Address</label>
-              <input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="email" required
+              <input type="email" name="email" class="form-control" placeholder="Email Address" id="email" required
                 data-validation-required-message="Please enter your email address.">
               <p class="help-block text-danger"></p>
             </div>

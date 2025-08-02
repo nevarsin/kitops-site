@@ -1,0 +1,28 @@
+---
+title: Cloud Engineering / SRE
+layout: default
+
+modal-id: 3
+date: 2014-07-16
+img: cloud.png
+alt: image-alt
+project-date:
+client:
+category:
+---
+I can help you plan your next move to the cloud, especially on Azure and AWS, with common sense.
+
+Cloud is not just moving Virtual Machines on someone else's computers, I build, secure, and automate cloud environments with a focus on infrastructure-as-code and CI/CD workflows.
+
+My experience includes provisioning resources on platforms like Azure, AWS, OVH and more, setting up VPCs, IAM, and monitoring pipelines.
+
+All of this while following DevSecOps practices to ensure secure, scalable and observable systems.
+
+Some tools I've worked with:
+- Azure EntraID
+- Azure Storage, VMSS, DBs
+- Gitlab CI/CD
+- Teamcity
+- Ansible
+- Terraform
+- Selfhosted Atlassian Jira and Confluence
